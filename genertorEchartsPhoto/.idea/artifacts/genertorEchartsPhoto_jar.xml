@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="genertorEchartsPhoto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/genertorEchartsPhoto_jar</output-path>
+    <root id="root">
+      <element id="archive" name="genertorEchartsPhoto.jar">
+        <element id="module-output" name="genertorEchartsPhoto" />
+      </element>
+    </root>
+  </artifact>
+</component>
